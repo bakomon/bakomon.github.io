@@ -1,2 +1,2 @@
 # bakomon.github.io
-The home page of bakomon repositories.
+Simple tool to save your comic bookmarks in firebase (realtime database).
