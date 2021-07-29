@@ -1,2 +1,2 @@
 # bakomon.github.io
-bakomon
+The home page of bakomon repositories.
